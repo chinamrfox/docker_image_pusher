@@ -1,8 +1,14 @@
 nginx
 mysql:8.4.4
+mysql:8.0.30
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ollama/ollama
+redis:7.0.4
+docker.elastic.co/kibana/kibana:7.17.19
+logstash:7.17.19
+apache/rocketmq:4.9.6
+xuxueli/xxl-job-admin:2.3.0
