@@ -17,4 +17,4 @@ apache/rocketmq:4.9.7
 xuxueli/xxl-job-admin:2.3.0
 elasticsearch:7.17.19
 oracleinanutshell/oracle-xe-11g
-container-registry.oracle.com/database/enterprise:21.3.0.0
+nasbump/ugly-avatar
